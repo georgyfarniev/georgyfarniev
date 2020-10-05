@@ -8,6 +8,6 @@ My open-source projects:
 - [🔗 chainik - helper for creating classes with chainable async methods](https://github.com/georgyfarniev/chainik)
 - [🌐 litetran - electron utility that translates selected text by hotkey press (WIP). Actually a clone of my older project written in Qt](https://github.com/georgyfarniev/litetran)
 - [📜 xmlkit - nodejs XML processing tools (WIP)](https://github.com/georgyfarniev/xmlkit)
-- [🔍 elastisync - realtime data sync service from mongo and other sources to elasticsearch](https://github.com/georgyfarniev/elastisync)
+- [🔍 elastisync - realtime data sync service from mongo and other sources to elasticsearch (WIP)](https://github.com/georgyfarniev/elastisync)
 
 👷 My site: [gfarniev.com](https://gfarniev.com).
