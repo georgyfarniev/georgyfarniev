@@ -3,6 +3,7 @@
 I'am a software engineer. I write code. ⚡
 
 My open-source projects:
+- [🐍 manggis - mongoose schema and ref validator](https://github.com/georgyfarniev/manggis)
 - [💉 fpdi - simple IOC container](https://github.com/georgyfarniev/fpdi)
 - [🔧 7ohm - parallel launcher similar to concurrently, but simplier and without deps](https://github.com/georgyfarniev/7ohm)
 - [🔗 chainik - helper for creating classes with chainable async methods](https://github.com/georgyfarniev/chainik)
